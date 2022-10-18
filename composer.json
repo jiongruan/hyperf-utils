@@ -1,0 +1,29 @@
+{
+    "name": "jiongruan/object-utils",
+    "autoload": {
+        "psr-4": {
+            "Jiongruan\\ObjectUtils\\": "src/"
+        }
+    },
+    "require-dev": {
+        "friendsofphp/php-cs-fixer": "^3.0",
+        "phpunit/phpunit": "*"
+
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "JiongruanTest\\ObjectUtils\\": "tests/"
+        }
+    },
+    "authors": [
+        {
+            "name": "jiongruan",
+            "email": "github@jiongruan.com"
+        }
+    ],
+    "require": {},
+    "scripts": {
+        "cs-fix": "php-cs-fixer fix ./src",
+        "test": "phpunit  -c phpunit.xml --colors=always"
+    }
+}
