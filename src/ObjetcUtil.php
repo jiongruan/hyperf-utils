@@ -5,7 +5,7 @@ declare(strict_types=1);
  *  @author   jiongruan
  *  @email    github@jiongruan.com
  */
-namespace Jiongruan\ObjectUtils;
+namespace Jiongruan\HyperfUtils;
 
 class ObjetcUtil
 {

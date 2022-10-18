@@ -1,6 +1,6 @@
 <?php
 
-namespace JiongruanTest\ObjectUtils\Demo;
+namespace JiongruanTest\HyperfUtils\Demo;
 
 class DemoC
 {

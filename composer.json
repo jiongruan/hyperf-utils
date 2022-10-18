@@ -1,8 +1,8 @@
 {
-    "name": "jiongruan/object-utils",
+    "name": "jiongruan/hpyerf-utils",
     "autoload": {
         "psr-4": {
-            "Jiongruan\\ObjectUtils\\": "src/"
+            "Jiongruan\\HyperfUtils\\": "src/"
         }
     },
     "require-dev": {
@@ -12,7 +12,7 @@
     },
     "autoload-dev": {
         "psr-4": {
-            "JiongruanTest\\ObjectUtils\\": "tests/"
+            "JiongruanTest\\HyperfUtils\\": "tests/"
         }
     },
     "authors": [

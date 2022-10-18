@@ -1,9 +1,9 @@
 <?php
-namespace JiongruanTest\ObjectUtils;
-use Jiongruan\ObjectUtils\ObjetcUtil;
-use JiongruanTest\ObjectUtils\Demo\DemoA;
-use JiongruanTest\ObjectUtils\Demo\DemoB;
-use JiongruanTest\ObjectUtils\Demo\DemoC;
+namespace JiongruanTest\HyperfUtils;
+use Jiongruan\HyperfUtils\ObjetcUtil;
+use JiongruanTest\HyperfUtils\Demo\DemoA;
+use JiongruanTest\HyperfUtils\Demo\DemoB;
+use JiongruanTest\HyperfUtils\Demo\DemoC;
 use \PHPUnit\Framework\TestCase;
 class ArrayTest extends TestCase
 {
